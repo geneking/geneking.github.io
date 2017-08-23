@@ -1636,7 +1636,7 @@ pre .css ~ * .id {
 #footer .outer {
   padding: 0 30px;
   margin: 0 auto;
-  width: 520px;
+  width: 320px !important;
 }
 .footer-left {
   float: left;
